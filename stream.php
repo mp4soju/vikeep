@@ -5,8 +5,7 @@ Date:		2015-01-22
 Brief:		Viki streams download resource.
 
 Legal notice:
-    Vikeep. Keep viki.com videos, yours.
-    Copyright (C) 2013  Victor Villarreal <mefhigoseth@gmail.com>
+    mp4soju viki  is a free viki videos downloader with subtitle..its a free software credit to the original owner 
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
